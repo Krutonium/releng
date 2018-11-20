@@ -66,7 +66,7 @@ xl2tpd
 gdm
 
 budgie-desktop
-gnome-extra
+gnome
 xf86-video-intel
 networkmanager
 network-manager-applet
