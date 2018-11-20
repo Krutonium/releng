@@ -64,5 +64,11 @@ wpa_actiond
 wvdial
 xl2tpd
 gdm
+
 budgie-desktop
+gnome-extra
+xf86-video-intel
+xf86-video-amd
+intel-ucode
+amd-ucode
 
