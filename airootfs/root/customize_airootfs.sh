@@ -23,5 +23,3 @@ systemctl enable pacman-init.service choose-mirror.service
 systemctl set-default graphical.target
 systemctl enable NetworkManager.service
 systemctl enable gdm.service
-
-pacman -R gnome-desktop
